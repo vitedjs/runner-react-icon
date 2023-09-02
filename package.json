@@ -1,5 +1,5 @@
 {
-  "name": "package-name",
+  "name": "@vited/runner-react-icon",
   "version": "1.0.0",
   "description": "...",
   "keywords": [
@@ -11,7 +11,7 @@
   "module": "dist/index.mjs",
   "typings": "dist/index.d.ts",
   "bin": {
-    "package-name": "dist/package-name.js"
+    "@vited/runner-react-icon": "dist/@vited/runner-react-icon.js"
   },
   "files": [
     "dist",

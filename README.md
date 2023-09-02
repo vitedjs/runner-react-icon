@@ -1,24 +1,24 @@
-# package-name
+# @vited/runner-react-icon
 
 ## Install
 
 ### Run directly
 
 ```bash
-npx package-name
+npx @vited/runner-react-icon
 ```
 
 ### Install on system
 
 ```bash
-npm i -g package-name
+npm i -g @vited/runner-react-icon
 %binName%
 ```
 
 ### Install in project
 
 ```bash
-npm i -D package-name
+npm i -D @vited/runner-react-icon
 ```
 
 Add script entry:

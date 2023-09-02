@@ -3,7 +3,7 @@
 import { Command } from 'commander';
 import { action } from '..';
 
-const program = new Command('package-name');
+const program = new Command('@vited/runner-react-icon');
 
 program
   .argument('[word]', 'Word to print on console')
