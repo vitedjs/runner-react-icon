@@ -1,7 +1,7 @@
 {
   "name": "@vited/runner-react-icon",
-  "version": "1.0.0",
-  "description": "...",
+  "version": "0.0.1",
+  "description": "Vited runner for React icon set projects",
   "keywords": [
     "node",
     "cli"
