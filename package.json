@@ -6,7 +6,7 @@
     "node",
     "cli"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "typings": "dist/index.d.ts",
